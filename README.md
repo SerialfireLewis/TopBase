@@ -31,6 +31,16 @@ Spawn Animations
 VeinMiner
 ### thexaero
 Xaero's Minimap
+### THGABS
+Programmer Art Fix
+### tr7zw
+3D Skin Layers
+### RaphiMC
+ImmediatelyFast
+### coderbot
+Iris Shaders
+### CaffeineMC
+Sodium
 
 # Extra
 Topbase will not have any dependencies for mods it does not have, any other dependencies will have to be installed by the user.
